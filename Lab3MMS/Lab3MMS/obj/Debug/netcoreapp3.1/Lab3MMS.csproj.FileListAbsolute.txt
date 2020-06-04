@@ -1,0 +1,11 @@
+D:\Projects\Lab3MMS\Lab3MMS\bin\Debug\netcoreapp3.1\Lab3MMS.exe
+D:\Projects\Lab3MMS\Lab3MMS\bin\Debug\netcoreapp3.1\Lab3MMS.deps.json
+D:\Projects\Lab3MMS\Lab3MMS\bin\Debug\netcoreapp3.1\Lab3MMS.runtimeconfig.json
+D:\Projects\Lab3MMS\Lab3MMS\bin\Debug\netcoreapp3.1\Lab3MMS.runtimeconfig.dev.json
+D:\Projects\Lab3MMS\Lab3MMS\bin\Debug\netcoreapp3.1\Lab3MMS.dll
+D:\Projects\Lab3MMS\Lab3MMS\bin\Debug\netcoreapp3.1\Lab3MMS.pdb
+D:\Projects\Lab3MMS\Lab3MMS\obj\Debug\netcoreapp3.1\Lab3MMS.csprojAssemblyReference.cache
+D:\Projects\Lab3MMS\Lab3MMS\obj\Debug\netcoreapp3.1\Lab3MMS.AssemblyInfoInputs.cache
+D:\Projects\Lab3MMS\Lab3MMS\obj\Debug\netcoreapp3.1\Lab3MMS.AssemblyInfo.cs
+D:\Projects\Lab3MMS\Lab3MMS\obj\Debug\netcoreapp3.1\Lab3MMS.dll
+D:\Projects\Lab3MMS\Lab3MMS\obj\Debug\netcoreapp3.1\Lab3MMS.pdb

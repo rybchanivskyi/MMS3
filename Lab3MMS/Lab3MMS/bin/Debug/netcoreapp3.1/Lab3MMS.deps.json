@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lab3MMS/1.0.0": {
+        "runtime": {
+          "Lab3MMS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab3MMS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
